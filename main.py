@@ -13,7 +13,7 @@ connection = mysql.connector.connect(host = "localhost", user = "root",passwd = 
 users = []
 sub_users = []
 
-TOKEN = '6331446499:AAEUsww44UHeV0Vmz1-sLQEVPM5Rg9VDiGo'
+TOKEN = ''
 
 
 svodka_date = ''
